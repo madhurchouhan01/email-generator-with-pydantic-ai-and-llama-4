@@ -1,0 +1,3 @@
+.env
+/email_generator_env
+/__pycache__
